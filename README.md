@@ -1,22 +1,8 @@
-# Galvanize Snacks 
-#### Front end repository
+## Galvanize Snacks Front-end repository
 
-To do:  
+An review application made with vanilla JavaScript and bundled with browserify.
 
-1. Create user profile page
-1. Add form for reviewing snack
-1. Create page for displaying reviews  
-1. Hook up links for edit/delete review  
-1. hook up user profile page  
-1. Edit snack button triggers add event listener of null bug  
-1. Get user name from user ID for display on review page
-
-
-Done:  
-~~Improve visual/UX design~~  
-~~Mathy stuff for displaying average review~~  
-~~Add links for edit/delete review~~  
-~~Fix single snack display~~  
+![gsnacks](/gsnacks.png?raw=true "Post")
 
 
 Browserify:
